@@ -1,0 +1,136 @@
+Soru 1-)
+
+Bir malın fiyatı 1500ytl dir.Bu mal,%18 i kadar KDVsi alınarak satılacaktır.Bu malın KDV sini ve satılacağı fiyatı hesaplayıp ekrana yazdırınız.
+
+Soru 2-)
+
+Yarıçap Değerini Klavyeden okuyarak bir dairenin alanını ve çevresini hesaplayan programı yazınız.
+
+Soru 3-)
+
+Klavyeden okunacak bir e-mail adresindeki kullanıcı adını
+ ve sunucu adını ekrana yazdıran bilgisayar programını Java dilinde yazınız.
+e-mail adresi örneği: turkaslan@gmail.com
+ekrana:
+kullaniciadi: turkaslan
+sunucu: gmail yazacak.
+
+Soru 4-)
+
+Klavyeden bir boy uzunluğu isteyiniz. 175’e eşit veya küçükse ekrana ‘KISA BOYLUSUNUZ.’,
+ 175’den büyükse ekrana “UZUN BOYLUSUNUZ.’ mesajını yazdıracak şekilde programı yazınız.
+
+Soru 5-)
+
+Ekrandan okunan 3 sayısal verinin en büyüğünü bularak ekrana yazdıran bilgisayar programını Java programlama dilinde yazınız.
+
+Soru 6-)
+
+Ekrandan okunan 3 karakter verinin (String) en büyüğünü bularak ekrana yazdıran bilgisayar programını Java programlama dilinde yazınız.
+
+Soru 7-)
+
+Klavyeden okunan bir karakterin (char) küçük harf olduğunun kontrolünü yaparak,
+bu harfin büyük harf karşılığını ekrana yazdıran programı Java dilinde yazınız.
+
+Soru 8-)
+
+Bir öğrenciye bir soru sorulsun ve öğrenciden cevap alınsın. Öğrencinin verdiği cevap doğru değilse, bir defa daha sorunun sorulduğu durumun akış şemasını çiziniz ve Java programını yazınız.
+
+Soru 9-)
+
+Klavyeden yılın kaçıncı ayında olduğumuzu alan (int olarak) ve bunun hangi ay olduğunu ekrana yazdıran bilgisayar programını Java programlama dilinde yazınız.
+
+Soru 10-)
+
+Klavyeden öğrencinin aldığı notu okuyan ve okunan bu nota göre öğrencinin durumunu değerlendiren (Çok Güzel, Ortalamanın üzerinde, Ortalamanın altında gibi) bilgisayar programını Java programlama dilinde yazınız.
+
+Soru 11-)
+
+Klavyeden girilen herhangi bir yılın, gene klavyeden girilen herhangi bir ayının kaç gün çektiğini hesaplayan bilgisayar programını Java programlama dilinde yazınız.
+
+Soru 12-)
+
+1 den 500 e kadar olan sayıları ekrana yazdıran bilgisayar programını yazınız.
+
+Soru 13-)
+
+Kullanıcıdan (negatif bir sayı girinceye kadar) pozitif sayılar alarak bu sayıların ortalamasını ekrana yazdıran bir program yazınız.
+
+Soru 14-)
+
+Klavyeden okunan bir string ifadenin palindrome(tersten okununca da aynı) olup olmadığını kontrol eden bilgisayar programını Java dilinde yazınız.
+
+Soru 15-)
+
+Klavyeden okunan bir string tanımlayıcının kurallara uygun olup olmadığını kontrol eden Java programını yazınız.
+Not: Bir tanımlayıcı harflerden, rakamlardan, alt çizgi karakterinden ( _ ) ve dolar ( $ ) işaretinden oluşur.
+
+Soru 16-)
+
+Ekrandan n tane satıcının isminin ve aylık satışlarının girildiğini düşünelim. Satışları 10000 YTL’nin üzerindeki ödül alacak satıcının ismini ekrana yazdıran Java programı yazınız.
+
+Soru 17-)
+
+Klavyeden okunan bir integer sayıyı basamak basamak ve tersten ekrana yazdıran bilgisayar programını yazınız.
+
+Soru 18-)
+
+Klavyeden alınan integer tipli bir sayının asal olup olmadığını test eden Java programını yazınız.
+
+Soru 19-)
+
+Girilen Satır Sayısına Göre Aşağıdaki çıktıyı verecek programı Java dilinde yazınız?
+
+Satir Sayisini Giriniz :
+5
+*
+**
+***
+****
+*****
+
+Soru 20-)
+
+1’den 999’a kadar olan tüm tek tamsayıların toplamını bulunuz.
+
+Soru 21-)
+
+Bir dizi sayı girerek ortalamalarını bulunuz. Girilen ilk sayı, ortalaması alınacak sayıların adedini versin. Örneğin;
+Girilen veri :
+3
+1
+2
+3
+olduğunda, algoritmayı, 3 değer alacak ve bunların ortalamalarını bulacak şekilde geliştiriniz
+
+Soru 22-)
+
+Bir işyerinde çalışan işçiler için, işçi adını, çalıştığı saat ve saat ücretini giriniz. İsim olarak “SON” girilmesi veri girişinin sonunu göstersin. Her işçinin ismini ve aldığı maaşı hesaplayınız. Bütün işçilerin maaş hesaplaması bittikten sonra, işçilere verilen toplam parayı ekrana yazdırınız.
+
+Soru 23-)
+
+Sınıftaki her öğrenci için isim ve notları giriniz. Veri girişi “SON” isimli öğrenci ismi ile sonlandırılsın. Her öğrenci için, isim ve harf notu çıkarınız. Bütün öğrenciler işlendikten sonra, “not dağılımını çıkarınız”: A’ların adedi, B’lerin adedi, vb.
+
+Soru 24-)
+
+Bir gün içinde alınan bir dizi sıcaklık göstergelerini giriniz.100 girildiğinde veri girişi sonlandırılsın. Bu değerleri girdikten sonra, günün en sıcak ve soğuk değerlerini ekrana yazdırınız. (Eğer bu değerleri birisi bilgisayara kaydedecek olsaydı zaten bir bakışta en yüksek ve en soğuk değerleri görürdü ve bu program gereksiz olurdu. Fakat elektrikli termometre bir bilgisayara bağlı olabilir. Veya geçmiş yıllarda veri kütüklerine kaydedilen kayıtları analiz ediyor olabiliriz. Bu durumda program kullanımı daha mantıklı olur).
+
+Soru 25-)
+
+Bir banka hesabındaki mevcut miktar, her ay başında ödenen depozito ve yıllık faiz oranları (yüzde olarak) verilmektedir.
+Faizin her ay işlediğini varsayarak belirtilen ay miktarı sonunda hesapta ne kadar para olacaktır?
+YILLIK_FAİZ_ORAN’ını 100’e (yüzdeyi desimale dönüştürmek için) ve 12’ye (yıllık oranı aylık orana) bölerek AYLIK_FAİZ_ORAN’ını buluruz. Daha sonra eğer MİKTAR bu ayın başındaki hesabı gösteriyorsa, bir sonraki ayın başındaki miktar aşağıdaki gibi bulunur:
+MİKTAR ← MİKTAR + DEPOZİTO
+MİKTAR ← MİKTAR + AYLIK_FAİZ_ORAN * MİKTAR
+
+Soru 26-)
+
+Klavyeden okuduğunuz bir string içindeki ‘a’ harflerini silerek yeni stringi ekrana yazdıran programı yazınız?
+Örnek Çalışım:
+String Giriniz: abracadabra
+Yeni Hali :brcdbr
+
+Soru 27-)
+
+Negatif bir sayı girilene kadar klavyeden girilen öğrenci notlarını alarak bunların ortalamasını ekrana yazdıran bilgisayar programını yazınız?
